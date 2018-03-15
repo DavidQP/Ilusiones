@@ -28,7 +28,7 @@ Complete la tabla:
 | Cafe Wall        | Cognitiva | https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion    | Movimiento del cursor (hacia la derecha)       |                 |
 | Hermann Grid & Scintillating Grid     | Fisiológica |  Diapositivas del curso        | Clic para cambiar de illusión     |        |
 | Lilac Chaser     | Movimiento           | Diapositivas del curso           | -                                   |                             |
-| Mach's Band      | Fisiológica          | Diapositivas del curso         | -                                   |                             |
+| Mach's Band      | Fisiológica          | Diapositivas del curso         | Movimiento del cursor (hacia abajo)          |                             |
 | Rotate Square Motion   | Movimiento          | Diapositivas del curso         | -                                   |                             |
 | Simultaneous Contrast  | Fisiológica          | Diapositivas del curso           | -                                   |                             |
 
