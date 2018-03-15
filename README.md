@@ -15,7 +15,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Juan David Quintero          | DavidQP            |
+| Romain Fontaine	               | romainfontaine            |
 
 ## Discusión
 
@@ -23,12 +24,12 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+| Bulge Illusion   | Cognitiva (Geométrica)           |            | Clic para mostrar el efecto             |                             |
+| Cafe Wall        | Cognitiva | https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion    | Movimiento del cursor (hacia la derecha)       |                 |
+| Hermann Grid     | Fisiológica |         | Clic para cambiar de illusión     |                             |
+| Lilac Chaser     | Movimiento           |            | -                                   |                             |
+| Mach's Band      | Fisiológica          |          | -                                   |                             |
+| Simultaneous Contrast  | Fisiológica          |            | -                                   |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
