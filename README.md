@@ -15,8 +15,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-| Juan David Quintero          | DavidQP            |
-| Romain Fontaine	               | romainfontaine            |
+| Juan David Quintero          | [DavidQP](https://github.com/davidqp)            |
+| Romain Fontaine	               | [romainfontaine](https://github.com/romainfontaine)            |
 
 ## Discusión
 
@@ -35,7 +35,8 @@ Complete la tabla:
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
 Referencias:
-- Este trabajo está basado el material del curso, Wikipedia, y sitios web presentando ilusiones ópticas.
+- Este trabajo está basado el [material del curso](http://visualcomputing.github.io/Cognitive/), Wikipedia, y sitios web presentando ilusiones ópticas.
+
 Profundización:
 - Hacer la transformacion de Bulge Illusion y de Hermann Grid de una manera más continua, mostrando el paso a paso con un efecto de transparencia, en vez de hacerla de una manera binaria.
 
