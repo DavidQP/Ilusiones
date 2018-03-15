@@ -24,14 +24,20 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-| Bulge Illusion   | Cognitiva (Geométrica)           |            | Clic para mostrar el efecto             |                             |
+| Bulge Illusion   | Cognitiva (Geométrica)           | https://www.moillusions.com/bulge-illusion/           | Clic para mostrar el efecto   |                  |
 | Cafe Wall        | Cognitiva | https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion    | Movimiento del cursor (hacia la derecha)       |                 |
-| Hermann Grid     | Fisiológica |         | Clic para cambiar de illusión     |                             |
-| Lilac Chaser     | Movimiento           |            | -                                   |                             |
-| Mach's Band      | Fisiológica          |          | -                                   |                             |
-| Simultaneous Contrast  | Fisiológica          |            | -                                   |                             |
+| Hermann Grid & Scintillating Grid     | Fisiológica |  Diapositivas del curso        | Clic para cambiar de illusión     |        |
+| Lilac Chaser     | Movimiento           | Diapositivas del curso           | -                                   |                             |
+| Mach's Band      | Fisiológica          | Diapositivas del curso         | -                                   |                             |
+| Rotate Square Motion   | Movimiento          | Diapositivas del curso         | -                                   |                             |
+| Simultaneous Contrast  | Fisiológica          | Diapositivas del curso           | -                                   |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+
+Referencias:
+- Este trabajo está basado el material del curso, Wikipedia, y sitios web presentando ilusiones ópticas.
+Profundización:
+- Hacer la transformacion de Bulge Illusion y de Hermann Grid de una manera más continua, mostrando el paso a paso con un efecto de transparencia, en vez de hacerla de una manera binaria.
 
 ## Entrega
 
